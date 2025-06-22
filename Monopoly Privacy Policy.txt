@@ -1,0 +1,67 @@
+Privacy Policy for Monopoly Star
+Last Updated: 22/06/2025
+Welcome to Monopoly Star ("we," "us," "our," or "the Game"). We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile game Monopoly Star available on Android. Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the game.
+We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the "Last Updated" date of this Privacy Policy. You are encouraged to periodically review this Privacy Policy to stay informed of updates.
+1. INFORMATION WE COLLECT
+We may collect information about you in a variety of ways. The information we may collect via the Game depends on the content and materials you use, and includes:
+Generated code
+**a. Personal Data You Provide to Us:**
+    *   **Account Information (Optional):** If you create an account (e.g., for cloud saves, leaderboards, or social features), we may collect your chosen username, email address (if provided), and any avatar or profile picture you upload.
+    *   **Support Communications:** If you contact us for customer support, we may collect your name, email address, and the content of your communications.
+
+**b. Data Collected Automatically:**
+    *   **Device Information:** We may collect information about your mobile device, including device model, operating system version, unique device identifiers (e.g., Android ID, Advertising ID), IP address, language settings, and mobile network information.
+    *   **Usage Data:** We collect information about how you play the Game, such as your game progress, scores, achievements, in-game purchases, items collected, time spent in the game, features used, and interactions with other players (if applicable).
+    *   **Crash Reports and Analytics:** We may collect anonymous data related to game crashes and performance to help us improve the Game. This might include device state information, an app identifier, and stack traces.
+
+**c. Information from Third-Party Services (if applicable):**
+    *   **Google Play Games Services:** If you choose to connect your Google Play Games Services account, we may receive information such as your Google Play ID, display name, and public profile information. This allows for features like achievements, leaderboards, and cloud saves. Google's use of this data is governed by Google's Privacy Policy.
+    *   **Advertising Networks:** We may use third-party advertising networks to serve ads within the Game. These networks may use cookies, web beacons, and other tracking technologies to collect information about your device and your interaction with ads (e.g., Advertising ID, IP address, ads viewed, clicked). This information is used to show you ads that are more relevant to your interests.
+    *   **In-App Purchases:** If you make in-app purchases, the transaction is processed by Google Play Store. We do not collect or store your financial information like credit card numbers. We may receive confirmation of the purchase from Google Play.
+2. HOW WE USE YOUR INFORMATION
+Having accurate information about you permits us to provide you with a smooth, efficient, and customized experience. Specifically, we may use information collected about you via the Game to:
+Create and manage your account (if applicable).
+Operate and improve the Game, including gameplay experience, features, and customer support.
+Save your game progress and settings.
+Enable player-to-player communications or interactions (if such features exist).
+Personalize your game experience.
+Display leaderboards and achievements.
+Respond to your comments, questions, and provide customer service.
+Send you technical notices, updates, security alerts, and support messages.
+Monitor and analyze trends, usage, and activities in connection with our Game to improve its design and functionality.
+Deliver targeted advertising, coupons, newsletters, and other information regarding promotions and the Game (you can opt-out of interest-based advertising as described below).
+Prevent cheating, fraud, or other unauthorized or illegal activity.
+Comply with legal obligations.
+3. DISCLOSURE OF YOUR INFORMATION
+We may share information we have collected about you in certain situations. Your information may be disclosed as follows:
+By Law or to Protect Rights: If we believe the release of information about you is necessary to respond to legal process, to investigate or remedy potential violations of our policies, or to protect the rights, property, and safety of others, we may share your information as permitted or required by any applicable law, rule, or regulation.
+Third-Party Service Providers: We may share your information with third-party vendors, service providers, contractors, or agents who perform services for us or on our behalf and require access to such information to do that work (e.g., cloud hosting, analytics providers, customer support tools, ad networks). We will ensure these third parties are contractually obligated to protect your data.
+Third-Party Advertisers: We may use third-party advertising companies to serve ads when you use the Game. These companies may use information about your use of the Game and other websites/apps that are contained in web cookies and other tracking technologies to provide advertisements about goods and services of interest to you.
+You can usually opt out of personalized advertising by adjusting your device's advertising identifier settings (e.g., in Android: Settings > Google > Ads > Opt out of Ads Personalization).
+Affiliates: We may share your information with our affiliates, in which case we will require those affiliates to honor this Privacy Policy.
+Business Transfers: If we reorganize or sell all or a portion of our assets, undergo a merger, or are acquired by another entity, we may transfer your information to the successor entity.
+With Your Consent: We may disclose your personal information for any other purpose with your consent.
+We do not sell your personal information.
+4. TRACKING TECHNOLOGIES (ADVERTISEMENTS)
+We may use third-party advertising partners (e.g., Google AdMob, Unity Ads, AppLovin, etc. - [BE SPECIFIC HERE IF YOU KNOW THEM]) to display advertising in our Game. These partners may use cookies, web beacons, device identifiers (like the Android Advertising ID), and other technologies to collect information about your use of our Game and other websites and applications, including your IP address, device ID, ads viewed, and whether you clicked on an ad. This information may be used to, among other things, analyze and track data, determine the popularity of certain content, and deliver advertising targeted to your interests.
+For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit the Digital Advertising Alliance (DAA) at www.aboutads.info/choices/ or the Network Advertising Initiative (NAI) at www.networkadvertising.org/choices/. For mobile app users, you can typically adjust your device privacy settings (e.g., "Limit Ad Tracking" on iOS or "Opt out of Ads Personalization" on Android).
+5. DATA SECURITY
+We use administrative, technical, and physical security measures to help protect your personal information. While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse.
+6. DATA RETENTION
+We will retain your personal information only for as long as is necessary for the purposes set out in this Privacy Policy, as long as your account is active (if applicable), or as needed to provide you the Game services. We will also retain and use your information to the extent necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+7. YOUR PRIVACY RIGHTS (Examples - may vary by jurisdiction)
+Depending on your jurisdiction, you may have certain rights regarding your personal information:
+Access: The right to request access to the personal information we hold about you.
+Correction: The right to request correction of inaccurate personal information.
+Deletion: The right to request deletion of your personal information, subject to certain exceptions.
+Opt-Out of Interest-Based Advertising: As described in Section 4.
+To exercise these rights, please contact us at [Your Support Email Address].
+8. CHILDREN'S PRIVACY
+Monopoly Star is not intended for children under the age of 13 (or a higher age threshold if applicable in your jurisdiction, e.g., 16 in some parts of Europe). We do not knowingly collect personally identifiable information from children under 13. If we become aware that we have inadvertently collected personal information from a child under 13, we will take reasonable steps to delete such information from our records promptly. If you are a parent or guardian and believe your child has provided us with information, please contact us at [Your Support Email Address].
+9. THIRD-PARTY WEBSITES AND SERVICES
+The Game may contain links to third-party websites and applications of interest, including advertisements and external services, that are not affiliated with us. Once you have used these links to leave the Game, any information you provide to these third parties is not covered by this Privacy Policy, and we cannot guarantee the safety and privacy of your information. Before visiting and providing any information to any third-party websites, you should inform yourself of the privacy policies and practices (if any) of the third party responsible for that website.
+10. INTERNATIONAL DATA TRANSFERS
+Your information, including personal data, may be transferred to — and maintained on — computers located outside of your state, province, country, or other governmental jurisdiction where the data protection laws may differ from those in your jurisdiction. If you are located outside [Your Country/Region, e.g., United States] and choose to provide information to us, please note that we transfer the data, including Personal Data, to [Your Country/Region, or where your servers are located, e.g., United States] and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+11. CONTACT US
+If you have questions or comments about this Privacy Policy, please contact us at:
+mustapha.mortada.cc@gmail.com
